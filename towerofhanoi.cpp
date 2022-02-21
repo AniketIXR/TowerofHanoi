@@ -15,6 +15,6 @@ int main()
     int n;
     cout<<"Enter the number of disk: ";
     cin>>n;
-    toh(1,2,3,5);
+    toh(1,2,3,n);
     return 0;
 }
